@@ -37,8 +37,7 @@ Tanto PHari, como los usuarios que luego tenga la plataforma deben ser capaces d
 ## Tests
 
 Como toda agencia de turismo, queremos probar que nuestro sistema funcione de la manera intencionada. Para eso, ¡vamos a utilizar tests!
-
-![tests](https://raw.githubusercontent.com/pdep-noche-mavi/tp-grupal-objetos/master/tests.png "Tests")
+Asegúrense de tener un test por cada clase de equivalencia en todos los métodos que les resulten interesantes de testear. Especial atención con los nombres de los tests!
 
 # Entrega 2
 
@@ -81,4 +80,5 @@ Cuando Barrilete Cósmico arma un viaje para un usuario establece como localidad
 
 ## Tests
 
-Los tests de esta entrega corren por su cuenta y son tan obligatorios como en la anterior. La completitud y correctitud de los mismos son tan importantes para la nota final del Trabajo Práctico como el resto del código. Tener en cuenta que quizás sea necesario actualizar los tests de la entrega anterior para que sigan funcionando.
+Tener en cuenta que quizás sea necesario actualizar los tests de la entrega anterior para que sigan funcionando.
+Y nuevamente, asegúrense de tener un test por cada clase de equivalencia en todos los métodos que les resulten interesantes de testear y mantener especial atención con los nombres de los tests!
